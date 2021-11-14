@@ -29,9 +29,9 @@ def alarmclock(alarmtime):
             break
 
 
-hrs=StringVar()
-mins=StringVar()
-secs=StringVar()
+hrs=StringVarr()
+mins=StringVarr()
+secs=StringVarr()
 
 greet=Label(root, font = ('arial', 20, 'bold'),
 text="Take a short nap!").grid(row=1,columnspan=3)
