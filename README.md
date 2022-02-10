@@ -1,2 +1,2 @@
-This is a Alarmclock made by our group(Varsha Gupta-12001715 and Sahla Ambrein-12020079). We have made this project for the CA-2 given by our Python Teacher, Md. Imran Hussain.
+
 We use python language of the main code and tkinder for its structure. Python is a high-level, general-purpose and a very popular programming language. This project requires good knowledge of Python and GUI. Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit. We can use Python in developing websites and software, task automation, data analysis, and data visualization.
